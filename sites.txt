@@ -1,0 +1,11 @@
+youtube,https://www.youtube.com
+google,https://www.google.com
+chat gpt,https://chat.openai.com/
+wikipedia,https://www.wikipedia.com
+telegram,https://web.telegram.org/k/
+spotify,https://open.spotify.com/
+instagram,https://www.instagram.com/
+amazon,https://www.amazon.in/
+flipkart,https://www.flipkart.com/
+whatsapp,https://web.whatsapp.com/
+email,https://www.mail.google.com

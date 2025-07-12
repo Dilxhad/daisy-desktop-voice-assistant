@@ -1,0 +1,2 @@
+vs code,C:\\Users\\Dilshad Ansari\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
+blender,C:\\Users\\Dilshad Ansari\\Desktop\\Blender 4.2.lnk
